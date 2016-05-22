@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bakc",
+				"background-image"
+			],
+			[
+				"di",
+				"displayName"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"in",
+				"initStorage"
+			],
+			[
+				"da",
+				"dataTransfer"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"PI",
+				"PI_TWO"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"r",
+				"repeat-x"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pars",
+				"parseHead"
+			],
+			[
+				"hea",
+				"headArray"
+			],
+			[
+				"l",
+				"length"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/img",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/js",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/less/vendors"
+	],
+	"file_history":
+	[
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/js/main.js",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/less/temp.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/less/main.less",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/css/main.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Agency Landing Page/.crunch",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/README",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/photos.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/css/style.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/profile.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/groups.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/members.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Social Network Template/index.html",
+		"/Users/HYPNOS/Downloads/apache-tomcat-8.0.32/conf/server.xml",
+		"/Users/HYPNOS/Downloads/apache-tomcat-8.0.32/bin/startup.bat",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Portfolio Resume Using SASS/scss/style.scss",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/Portfolio Resume Using SASS/css/style.css",
+		"/Applications/Scout.app/Contents/Resources/javascripts/app/process_interaction.js",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/contact.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/about.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/index.html",
+		"/Users/HYPNOS/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/HYPNOS/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Bootstrap Project/css/style.css",
+		"/Users/HYPNOS/Desktop/notes.txt",
+		"/Users/HYPNOS/Desktop/report.txt",
+		"/Users/HYPNOS/Downloads/jquery-1.12.1.js",
+		"/Users/HYPNOS/Desktop/JavaWorkSpace/FileSystemClassLoaderTest/Emp.java",
+		"/Users/HYPNOS/Desktop/server/server/src/com/bjsxt/servlet/Servlet.java",
+		"/Users/HYPNOS/Desktop/server/server/src/com/bjsxt/server/Dispatcher.java",
+		"/Users/HYPNOS/Desktop/server/server/src/com/bjsxt/server/Server.java",
+		"/Users/HYPNOS/Desktop/server/server/src/com/bjsxt/util/CloseUtil.java",
+		"/Users/HYPNOS/Desktop/1.html",
+		"/Users/HYPNOS/Desktop/udp.txt",
+		"/Users/HYPNOS/Desktop/JavaWorkSpace/BjXstPractice/src/cn/bjxst/file/decode/a.txt",
+		"/Users/HYPNOS/Desktop/JavaWorkSpace/BjXstPractice/src/cn/bjxst/file/chario/a.txt",
+		"/Users/HYPNOS/Desktop/JavaWorkSpace/BjXstPractice/src/cn/bjxst/file/io2/a.txt",
+		"/Users/HYPNOS/Downloads/bootstrap-3.3.5-dist/css/bootstrap-theme.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/DTP/DTPUI/indexexample.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/DTP/DTPUI/css/index",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/DTP/DTPUI/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Website HTML5/css/style.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Website HTML5/index.html",
+		"/Users/HYPNOS/Downloads/Ch5_Resources/Code/Lecture 26/Program Files/blue_developer_done/register.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Website HTML5/about.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/drag and drop/modernizr.js",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/drag and drop/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Canvas Example/canvas.js",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Canvas Example/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/canvas.js",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Website HTML5/contact.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Website HTML5/browse.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Website/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/css/style.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/index.html",
+		"/Users/HYPNOS/Downloads/Ch3_Resources/Code/Lecture14/Program Files/blue_developer_html/index.html",
+		"/Users/HYPNOS/Downloads/Ch3_Resources/Code/Lecture14/Program Files/blue_developer_html/css/style.css",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/contactform.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Table.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Table/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Learn HTML5 Programming From Scratch/Blue Developer Table/untitled.html",
+		"/Users/HYPNOS/Downloads/Project Files/index.html",
+		"/Users/HYPNOS/Desktop/JSWorkSpace/Program Files/snippets.txt",
+		"/Users/HYPNOS/Downloads/Project_Files/Chapter 02/Lesson 0201/Starter/MyDocumentWithStyles.html",
+		"/Users/HYPNOS/Downloads/Project_Files/Chapter 02/Lesson 0201/Starter/MyStylesheet.css",
+		"/Users/HYPNOS/Downloads/Project_Files/Chapter 02/Lesson 0201/Starter/SemanticTags3.html",
+		"/Users/HYPNOS/Downloads/Project_Files/Chapter 02/Lesson 0201/Starter/SemanticTags2.html",
+		"/Users/HYPNOS/Downloads/Project_Files/Chapter 02/Lesson 0201/Starter/SemanticTags1.html",
+		"/Users/HYPNOS/Desktop/riskalyze.js",
+		"/Users/HYPNOS/Desktop/main.js",
+		"/Users/HYPNOS/Desktop/index.html",
+		"/Users/HYPNOS/Desktop/index",
+		"/usr/local/Cellar/hadoop/2.7.0/libexec/etc/hadoop/hadoop-env.sh",
+		"/Users/HYPNOS/Desktop/JS/index.html"
+	],
+	"find":
+	{
+		"height": 730.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header{\n	width: 960px;\n	height: 85px;\n}\n\nheader h1{\n	color: #fff;\n	float: left;\n	font-size: 43px;\n	padding: 20px 0 0 20px;\n}\n\nheader h1 span.blue-text{\n	color: #67A0F5;\n}\n\nheader h2{\n	float: right;\n	color: #A9D1FA;\n	padding: 40px 20px 0 0;\n}\nheader h2 span.white-text{\n	color: #FFF;\n}\n\naside{\n	color: #fff;\n}\naside input[type=\"text\"], aside input[type=\"email\"]{\n	margin-bottom: 10px;\n}\naside p{\n	padding: 10px 0;\n}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AgencyLandingPage.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
